@@ -1,11 +1,12 @@
 /*
   Titre      : Controle à distance via RPC
   Auteur     : Cedric Yonta
-  Date       : 28/10/2022
+  Date       : 28/10/2022//
   Description: Une description du programme
   Version    : 0.0.1
 */
 
+// le  RPC se fait avec les rules Chains
 #include <Arduino.h>
 #include <SPI.h>
 #include <SD.h>
